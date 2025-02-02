@@ -1,5 +1,8 @@
 # React.js Portfolio
 
+## About
+This is a simple portfolio website built with React.js. It includes a home page, about page, projects page, and contact page. The website is responsive and looks good on both desktop and mobile devices.
+
 ## Available Scripts
 
 In the project directory, you can run:
